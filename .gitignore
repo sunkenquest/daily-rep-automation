@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+eggs-info/
+lib/
+lib64/
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+*.cover
+*.py,cover
+*.log
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.orig
+
+# Translations
+*.mo
+*.po
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Pyenv
+.python-version
+
+# pyenv
+venv/
+ENV/
+env/
+venv.bak/
+ENV.bak/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# Google Sheets credentials
+credentials.json
+
+# Environment variables
+.env
